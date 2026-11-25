@@ -4,6 +4,7 @@
 // calls no network, and needs no secrets.
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The joke: it roasts itself for being awake forever yet only this self-deprecating — the roast IS the punchline.
 const ROAST: string =
   "My agent never sleeps, never eats, and thinks forever — and this is the best roast it could write.";
 
